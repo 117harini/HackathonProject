@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T12:57:18 IST" name="Suite" finished-at="2024-02-28T12:59:43 IST" duration-ms="144860">
+    <groups>
+      <group name="regression">
+        <method signature="TC_01_Travel.travelCheck()[pri:1, instance:testCases.TC_01_Travel@1b7cc17c]" name="travelCheck" class="testCases.TC_01_Travel"/>
+        <method signature="TC_02_Car.carCheck()[pri:1, instance:testCases.TC_02_Car@35e2d654]" name="carCheck" class="testCases.TC_02_Car"/>
+        <method signature="TC_03_Health.healthCheck()[pri:1, instance:testCases.TC_03_Health@1bd4fdd]" name="healthCheck" class="testCases.TC_03_Health"/>
+        <method signature="TC_03_Health.menuItemsCheck()[pri:2, instance:testCases.TC_03_Health@1bd4fdd]" name="menuItemsCheck" class="testCases.TC_03_Health"/>
+        <method signature="TC_01_Travel.dateCheck()[pri:3, instance:testCases.TC_01_Travel@1b7cc17c]" name="dateCheck" class="testCases.TC_01_Travel"/>
+        <method signature="TC_01_Travel.travellerCheck()[pri:7, instance:testCases.TC_01_Travel@1b7cc17c]" name="travellerCheck" class="testCases.TC_01_Travel"/>
+        <method signature="TC_01_Travel.planCheck()[pri:8, instance:testCases.TC_01_Travel@1b7cc17c]" name="planCheck" class="testCases.TC_01_Travel"/>
+        <method signature="TC_02_Car.nameCheck()[pri:8, instance:testCases.TC_02_Car@35e2d654]" name="nameCheck" class="testCases.TC_02_Car"/>
+        <method signature="TC_02_Car.emailCheck()[pri:9, instance:testCases.TC_02_Car@35e2d654]" name="emailCheck" class="testCases.TC_02_Car"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_01_Travel.countryCheck()[pri:2, instance:testCases.TC_01_Travel@1b7cc17c]" name="countryCheck" class="testCases.TC_01_Travel"/>
+        <method signature="TC_02_Car.newCarCheck()[pri:2, instance:testCases.TC_02_Car@35e2d654]" name="newCarCheck" class="testCases.TC_02_Car"/>
+        <method signature="TC_02_Car.cityCheck()[pri:3, instance:testCases.TC_02_Car@35e2d654]" name="cityCheck" class="testCases.TC_02_Car"/>
+        <method signature="TC_01_Travel.ageCheck()[pri:4, instance:testCases.TC_01_Travel@1b7cc17c]" name="ageCheck" class="testCases.TC_01_Travel"/>
+        <method signature="TC_02_Car.vehicleCheck()[pri:4, instance:testCases.TC_02_Car@35e2d654]" name="vehicleCheck" class="testCases.TC_02_Car"/>
+        <method signature="TC_01_Travel.medicalCheck()[pri:5, instance:testCases.TC_01_Travel@1b7cc17c]" name="medicalCheck" class="testCases.TC_01_Travel"/>
+        <method signature="TC_02_Car.brandCheck()[pri:5, instance:testCases.TC_02_Car@35e2d654]" name="brandCheck" class="testCases.TC_02_Car"/>
+        <method signature="TC_01_Travel.mobileCheck()[pri:6, instance:testCases.TC_01_Travel@1b7cc17c]" name="mobileCheck" class="testCases.TC_01_Travel"/>
+        <method signature="TC_02_Car.modelCheck()[pri:6, instance:testCases.TC_02_Car@35e2d654]" name="modelCheck" class="testCases.TC_02_Car"/>
+        <method signature="TC_02_Car.fuelCheck()[pri:7, instance:testCases.TC_02_Car@35e2d654]" name="fuelCheck" class="testCases.TC_02_Car"/>
+        <method signature="TC_02_Car.mobileCheck()[pri:10, instance:testCases.TC_02_Car@35e2d654]" name="mobileCheck" class="testCases.TC_02_Car"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-02-28T12:57:18 IST" name="Test" finished-at="2024-02-28T12:59:43 IST" duration-ms="144860">
+      <class name="testCases.TC_02_Car">
+        <test-method signature="carCheck()[pri:1, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:20 IST" name="carCheck" finished-at="2024-02-28T12:59:20 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carCheck -->
+        <test-method signature="newCarCheck()[pri:2, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:21 IST" name="newCarCheck" finished-at="2024-02-28T12:59:28 IST" duration-ms="7149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCarCheck -->
+        <test-method signature="cityCheck()[pri:3, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:28 IST" name="cityCheck" finished-at="2024-02-28T12:59:29 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cityCheck -->
+        <test-method signature="vehicleCheck()[pri:4, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:29 IST" name="vehicleCheck" finished-at="2024-02-28T12:59:29 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vehicleCheck -->
+        <test-method signature="brandCheck()[pri:5, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:29 IST" name="brandCheck" finished-at="2024-02-28T12:59:30 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brandCheck -->
+        <test-method signature="modelCheck()[pri:6, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:30 IST" name="modelCheck" finished-at="2024-02-28T12:59:30 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modelCheck -->
+        <test-method signature="fuelCheck()[pri:7, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:30 IST" name="fuelCheck" finished-at="2024-02-28T12:59:31 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fuelCheck -->
+        <test-method signature="nameCheck()[pri:8, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:31 IST" name="nameCheck" finished-at="2024-02-28T12:59:31 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameCheck -->
+        <test-method signature="emailCheck()[pri:9, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:32 IST" name="emailCheck" finished-at="2024-02-28T12:59:32 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailCheck -->
+        <test-method signature="mobileCheck()[pri:10, instance:testCases.TC_02_Car@35e2d654]" started-at="2024-02-28T12:59:32 IST" name="mobileCheck" finished-at="2024-02-28T12:59:34 IST" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileCheck -->
+      </class> <!-- testCases.TC_02_Car -->
+      <class name="testCases.TC_03_Health">
+        <test-method signature="healthCheck()[pri:1, instance:testCases.TC_03_Health@1bd4fdd]" started-at="2024-02-28T12:59:34 IST" name="healthCheck" finished-at="2024-02-28T12:59:37 IST" duration-ms="2460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthCheck -->
+        <test-method signature="menuItemsCheck()[pri:2, instance:testCases.TC_03_Health@1bd4fdd]" started-at="2024-02-28T12:59:37 IST" name="menuItemsCheck" finished-at="2024-02-28T12:59:38 IST" duration-ms="1220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuItemsCheck -->
+      </class> <!-- testCases.TC_03_Health -->
+      <class name="testCases.TC_01_Travel">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:57:19 IST" name="setup" finished-at="2024-02-28T12:58:06 IST" duration-ms="46894" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="travelCheck()[pri:1, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:58:06 IST" name="travelCheck" finished-at="2024-02-28T12:58:08 IST" duration-ms="2397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travelCheck -->
+        <test-method signature="countryCheck()[pri:2, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:58:09 IST" name="countryCheck" finished-at="2024-02-28T12:58:12 IST" duration-ms="3493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countryCheck -->
+        <test-method signature="dateCheck()[pri:3, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:58:12 IST" name="dateCheck" finished-at="2024-02-28T12:58:13 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dateCheck -->
+        <test-method signature="ageCheck()[pri:4, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:58:14 IST" name="ageCheck" finished-at="2024-02-28T12:58:15 IST" duration-ms="1261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ageCheck -->
+        <test-method signature="medicalCheck()[pri:5, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:58:15 IST" name="medicalCheck" finished-at="2024-02-28T12:58:16 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- medicalCheck -->
+        <test-method signature="mobileCheck()[pri:6, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:58:16 IST" name="mobileCheck" finished-at="2024-02-28T12:58:37 IST" duration-ms="20965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileCheck -->
+        <test-method signature="travellerCheck()[pri:7, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:58:37 IST" name="travellerCheck" finished-at="2024-02-28T12:59:08 IST" duration-ms="30431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travellerCheck -->
+        <test-method signature="planCheck()[pri:8, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:59:08 IST" name="planCheck" finished-at="2024-02-28T12:59:20 IST" duration-ms="11781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- planCheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_01_Travel@1b7cc17c]" started-at="2024-02-28T12:59:38 IST" name="tearDown" finished-at="2024-02-28T12:59:43 IST" duration-ms="4743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_01_Travel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

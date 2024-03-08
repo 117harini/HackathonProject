@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC_01_Travel">
+        <methods>
+          <include name="planCheck"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_01_Travel -->
+      <class name="testCases.TC_03_Health">
+        <methods>
+          <include name="menuItemsCheck"/>
+          <include name="tearDown"/>
+          <include name="healthCheck"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_03_Health -->
+      <class name="testCases.TC_02_Car">
+        <methods>
+          <include name="fuelCheck"/>
+          <include name="tearDown"/>
+          <include name="mobileCheck"/>
+          <include name="nameCheck"/>
+          <include name="emailCheck"/>
+          <include name="modelCheck"/>
+          <include name="newCarCheck"/>
+          <include name="brandCheck"/>
+          <include name="vehicleCheck"/>
+          <include name="setup"/>
+          <include name="carCheck"/>
+          <include name="cityCheck"/>
+        </methods>
+      </class> <!-- testCases.TC_02_Car -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

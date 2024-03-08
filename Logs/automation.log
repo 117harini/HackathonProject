@@ -1,0 +1,301 @@
+21:30:52.872 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+21:30:53.623 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+21:31:05.796 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+21:31:06.539 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+21:31:07.227 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+21:31:07.611 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+21:31:07.931 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+21:31:17.002 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+21:31:18.542 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+21:31:19.357 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+21:31:51.774 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+21:32:22.287 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+21:32:52.885 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+21:33:23.445 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+21:33:54.057 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+21:34:24.674 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+21:34:55.435 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+21:35:26.066 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+21:35:26.066 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+21:35:56.784 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+21:36:28.817 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+21:36:31.452 [main] INFO  testCases.TC_01_Travel - ***** Insurance Products is hovered *****
+21:36:33.214 [main] INFO  testCases.TC_01_Travel - ***** All menu items are displayed *****
+21:36:42.546 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+21:37:57.255 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+21:38:00.250 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+21:38:03.990 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+21:38:05.278 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+21:38:07.747 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+21:38:08.424 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+21:38:20.069 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+21:38:20.934 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+21:38:21.724 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+21:38:22.091 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+21:38:22.397 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+21:38:31.574 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+21:38:33.059 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+21:38:33.906 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+21:38:36.822 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+21:38:37.448 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+21:38:38.009 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+21:38:38.631 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+21:38:39.084 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+21:38:39.631 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+21:38:40.333 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+21:38:50.884 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+21:38:50.884 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+21:40:56.498 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+09:07:20.097 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+09:07:23.558 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+09:07:29.733 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+09:07:32.090 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+09:07:34.753 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+09:07:35.732 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+09:07:48.195 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+09:07:48.941 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+09:07:49.673 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+09:07:50.060 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+09:07:50.411 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+09:08:00.330 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+09:08:02.419 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+09:08:03.629 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+09:08:06.869 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+09:08:07.842 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+09:08:08.637 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+09:08:09.346 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+09:08:09.876 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+09:08:10.508 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+09:08:11.169 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+09:08:21.669 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+09:08:21.669 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+09:10:32.417 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+09:21:04.066 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+09:21:39.762 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+09:21:45.383 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+09:21:47.185 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+09:21:49.459 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+09:21:50.374 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+09:22:02.684 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+09:22:03.728 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+09:22:04.680 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+09:22:05.020 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+09:22:05.272 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+09:22:14.584 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+09:22:16.325 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+09:22:17.370 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+09:22:21.090 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+09:22:22.115 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+09:22:22.977 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+09:22:23.699 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+09:22:24.348 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+09:22:25.171 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+09:22:26.092 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+09:22:36.692 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+09:22:36.692 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+09:22:50.369 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+09:22:52.606 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+09:22:55.291 [main] INFO  testCases.TC_01_Travel - ***** Insurance Products is hovered *****
+09:22:57.071 [main] INFO  testCases.TC_01_Travel - ***** All menu items are displayed *****
+09:23:03.588 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+09:23:28.241 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+09:23:31.438 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+09:23:37.252 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+09:23:39.185 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+09:23:41.466 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+09:23:42.805 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+09:23:54.808 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+09:23:55.748 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+09:23:56.531 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+09:23:56.889 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+09:23:57.177 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+09:24:06.725 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+09:24:08.917 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+09:24:09.709 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+09:24:12.705 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+09:24:13.426 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+09:24:14.205 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+09:24:14.956 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+09:24:15.486 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+09:24:16.109 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+09:24:16.834 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+09:24:27.395 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+09:24:27.396 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+09:26:40.114 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+09:30:44.818 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+09:30:48.011 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+09:30:53.608 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+09:30:55.601 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+09:30:59.314 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+09:31:00.771 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+09:31:13.418 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+09:31:14.404 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+09:31:15.219 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+09:31:15.637 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+09:31:16.017 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+09:31:25.673 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+09:31:28.975 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+09:31:29.764 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+09:31:33.079 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+09:31:33.929 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+09:31:34.723 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+09:31:35.397 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+09:31:35.944 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+09:31:36.601 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+09:31:37.267 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+09:31:47.798 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+09:31:47.798 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+09:31:48.664 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+09:31:50.053 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+09:31:53.218 [main] INFO  testCases.TC_01_Travel - ***** Insurance Products is hovered *****
+09:31:54.825 [main] INFO  testCases.TC_01_Travel - ***** All menu items are displayed *****
+09:32:01.789 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+09:33:08.116 [main] INFO  factory.CucumberBaseClass - ***** Website is launched successfully *****
+09:33:15.672 [main] INFO  factory.CucumberBaseClass - ***** Country is selected *****
+09:33:17.640 [main] INFO  factory.CucumberBaseClass - ***** Travel date is selected *****
+09:33:20.784 [main] INFO  factory.CucumberBaseClass - ***** Travellers and age is given *****
+09:33:34.515 [main] INFO  factory.CucumberBaseClass - ***** Mobile number is given *****
+09:33:36.786 [main] INFO  factory.CucumberBaseClass - ***** Student plan is selected *****
+09:33:46.143 [main] INFO  factory.CucumberBaseClass - ***** Travel plans are displayed *****
+09:33:54.481 [main] INFO  factory.CucumberBaseClass - ***** Website closed successfully *****
+09:34:05.287 [main] INFO  factory.CucumberBaseClass - ***** Website is launched successfully *****
+09:34:09.207 [main] INFO  factory.CucumberBaseClass - ***** Buy a new car is selected *****
+09:34:11.531 [main] INFO  factory.CucumberBaseClass - ***** All car details are selected *****
+09:34:12.190 [main] INFO  factory.CucumberBaseClass - ***** Name is given *****
+09:34:22.719 [main] INFO  factory.CucumberBaseClass - ***** Invalid email is given *****
+09:34:23.607 [main] INFO  factory.CucumberBaseClass - ***** Mobile number is given *****
+09:34:23.938 [main] INFO  factory.CucumberBaseClass - ***** Error message is cpatured *****
+09:34:31.720 [main] INFO  factory.CucumberBaseClass - ***** Website closed successfully *****
+09:35:04.861 [main] INFO  factory.CucumberBaseClass - ***** Website is launched successfully *****
+09:35:09.612 [main] INFO  factory.CucumberBaseClass - ***** All health menu items are displayed *****
+09:35:13.239 [main] INFO  factory.CucumberBaseClass - ***** Website closed successfully *****
+15:36:10.680 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+15:36:25.199 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+15:36:30.491 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+15:36:31.901 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+15:36:33.641 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+15:36:34.487 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+15:36:48.122 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+15:36:58.921 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+15:36:59.899 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+15:37:00.214 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+15:37:00.465 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+15:37:09.313 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+15:37:11.512 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+15:37:12.086 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+15:37:14.189 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+15:37:15.828 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+15:37:16.549 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+15:37:17.026 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+15:37:17.427 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+15:37:17.997 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+15:37:19.030 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+15:37:29.524 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+15:37:29.524 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+15:37:30.227 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+15:37:32.129 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+15:37:35.161 [main] INFO  testCases.TC_01_Travel - ***** Insurance Products is hovered *****
+15:37:41.299 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+15:42:58.875 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+15:43:06.877 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+15:43:13.467 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+15:43:15.048 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+15:43:16.941 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+15:43:17.735 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+15:43:29.945 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+15:43:30.603 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+15:43:31.170 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+15:43:31.462 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+15:43:31.757 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+15:43:40.859 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+15:43:42.893 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+15:43:43.800 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+15:43:46.833 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+15:43:47.898 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+15:43:48.552 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+15:43:49.129 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+15:43:49.596 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+15:43:50.195 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+15:43:50.770 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+15:44:01.272 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+15:44:01.272 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+15:44:02.006 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+15:44:07.932 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+15:44:10.427 [main] INFO  testCases.TC_01_Travel - ***** Insurance Products is hovered *****
+15:44:11.462 [main] INFO  testCases.TC_01_Travel - ***** All menu items are displayed *****
+15:44:16.705 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+17:51:36.693 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+17:51:39.415 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+17:51:44.046 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+17:51:45.433 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+17:51:47.272 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+17:51:47.920 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+17:52:26.812 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+17:52:30.653 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+17:52:31.452 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+17:52:31.797 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+17:52:32.093 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+17:52:41.171 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+17:52:43.075 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+17:52:43.767 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+17:53:15.894 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+17:53:46.435 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+17:54:17.111 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+17:54:47.696 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+17:55:18.269 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+17:55:48.758 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+17:56:19.596 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+17:56:50.246 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+17:56:50.246 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+17:57:20.912 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+17:57:52.979 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+17:57:55.650 [main] INFO  testCases.TC_01_Travel - ***** Insurance Products is hovered *****
+17:57:56.706 [main] INFO  testCases.TC_01_Travel - ***** All menu items are displayed *****
+17:58:01.840 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+09:57:51.429 [main] INFO  testCases.TC_01_Travel - ***** Website launched successfully *****
+09:58:30.257 [main] INFO  testCases.TC_01_Travel - ***** Travel Insurance is clicked *****
+09:58:36.124 [main] INFO  testCases.TC_01_Travel - ***** Country is selected *****
+09:58:38.171 [main] INFO  testCases.TC_01_Travel - ***** Travel dates are selected *****
+09:58:40.839 [main] INFO  testCases.TC_01_Travel - ***** Travellers and their ages are selected *****
+09:58:42.104 [main] INFO  testCases.TC_01_Travel - ***** No medical issues is given *****
+09:58:55.063 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+09:58:56.006 [main] INFO  testCases.TC_01_Travel - ***** Student plan is selected *****
+09:58:56.909 [main] INFO  testCases.TC_01_Travel - ***** Travellers are selected *****
+09:58:57.379 [main] INFO  testCases.TC_01_Travel - ***** No.of days is selected *****
+09:58:57.737 [main] INFO  testCases.TC_01_Travel - ***** Apply button is clicked *****
+09:59:07.349 [main] INFO  testCases.TC_01_Travel - ***** All plans are displayed *****
+09:59:09.436 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+09:59:10.571 [main] INFO  testCases.TC_01_Travel - ***** Car insurance is clicked *****
+09:59:14.116 [main] INFO  testCases.TC_01_Travel - ***** Buying a new car is clicked *****
+09:59:14.946 [main] INFO  testCases.TC_01_Travel - ***** City is selected *****
+09:59:15.805 [main] INFO  testCases.TC_01_Travel - ***** Vehicle registration number is selected *****
+09:59:16.501 [main] INFO  testCases.TC_01_Travel - ***** Brand is selected *****
+09:59:17.023 [main] INFO  testCases.TC_01_Travel - ***** Model is selected *****
+09:59:17.638 [main] INFO  testCases.TC_01_Travel - ***** Fuel is selected *****
+09:59:18.306 [main] INFO  testCases.TC_01_Travel - ***** Name is given *****
+09:59:28.788 [main] INFO  testCases.TC_01_Travel - ***** Email is given *****
+09:59:28.788 [main] INFO  testCases.TC_01_Travel - ***** Error message is captured *****
+09:59:29.564 [main] INFO  testCases.TC_01_Travel - ***** Mobile number is given *****
+09:59:32.135 [main] INFO  testCases.TC_01_Travel - ***** Back to HomePage *****
+09:59:34.961 [main] INFO  testCases.TC_01_Travel - ***** Insurance Products is hovered *****
+09:59:36.755 [main] INFO  testCases.TC_01_Travel - ***** All menu items are displayed *****
+09:59:42.575 [main] INFO  testCases.TC_01_Travel - ***** Browser closed successfully *****
+10:20:04.515 [main] INFO  factory.CucumberBaseClass - ***** Website is launched successfully *****
+10:20:22.279 [main] INFO  factory.CucumberBaseClass - ***** Country is selected *****
+10:20:23.677 [main] INFO  factory.CucumberBaseClass - ***** Travel date is selected *****
+10:20:25.962 [main] INFO  factory.CucumberBaseClass - ***** Travellers and age is given *****
+10:20:39.482 [main] INFO  factory.CucumberBaseClass - ***** Mobile number is given *****
+10:20:41.627 [main] INFO  factory.CucumberBaseClass - ***** Student plan is selected *****
+10:20:50.640 [main] INFO  factory.CucumberBaseClass - ***** Travel plans are displayed *****
+10:20:58.070 [main] INFO  factory.CucumberBaseClass - ***** Website closed successfully *****
+10:21:12.562 [main] INFO  factory.CucumberBaseClass - ***** Website is launched successfully *****
+10:21:20.914 [main] INFO  factory.CucumberBaseClass - ***** Buy a new car is selected *****
+10:21:23.739 [main] INFO  factory.CucumberBaseClass - ***** All car details are selected *****
+10:21:24.350 [main] INFO  factory.CucumberBaseClass - ***** Name is given *****
+10:21:34.779 [main] INFO  factory.CucumberBaseClass - ***** Invalid email is given *****
+10:21:35.525 [main] INFO  factory.CucumberBaseClass - ***** Mobile number is given *****
+10:21:35.802 [main] INFO  factory.CucumberBaseClass - ***** Error message is cpatured *****
+10:21:43.082 [main] INFO  factory.CucumberBaseClass - ***** Website closed successfully *****
+10:22:18.759 [main] INFO  factory.CucumberBaseClass - ***** Website is launched successfully *****
+10:22:23.798 [main] INFO  factory.CucumberBaseClass - ***** All health menu items are displayed *****
+10:22:28.880 [main] INFO  factory.CucumberBaseClass - ***** Website closed successfully *****
